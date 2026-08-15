@@ -1,0 +1,6 @@
+{
+  "name": "SafeHer",
+  "description": "AI-powered Smart Women Safety System with real-time threat detection, live GPS tracking, voice distress recognition, and emergency SOS network.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
